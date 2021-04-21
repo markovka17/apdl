@@ -11,9 +11,11 @@
   
 - [__week02__](./week02) Automatic Speech Recognition
   - Lecture: Metrics, Attention, LAS, CTC, BeamSearch
-  - Seminar: CTC based ASR
+  - Seminar: QuartzNet and CTC based ASR
 
 - [__week03__](./week03) Text to Speech
+  - Lecture: Tacotron2, WaveNet, Parallel WaveGAN
+  - Seminar: WaveNet based Vocoder
 
 - [__week04__](./week04) NER / POS tagging / Intent classification
 
