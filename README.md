@@ -17,7 +17,7 @@
   - Lecture: Tacotron2, WaveNet, Parallel WaveGAN
   - Seminar: WaveNet based Vocoder
 
-- [__week04__](./week04) NER / POS tagging / Intent classification
+- [__week04__](./week04) Introduction to Text Processing
   - Lecture: Word Embeddings (Word2Vec, GloVe), Text Classification
   - Seminar: POS tagging based on bi-LSTM and Text Classification based on CNN+Attention
 
