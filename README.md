@@ -18,6 +18,8 @@
   - Seminar: WaveNet based Vocoder
 
 - [__week04__](./week04) NER / POS tagging / Intent classification
+  - Lecture: Word Embeddings (Word2Vec, GloVe), Text Classification
+  - Seminar: POS tagging based on bi-LSTM and Text Classification based on CNN+Attention
 
 - [__week05__](./week05) Language Modeling / Dialog
 
