@@ -21,9 +21,13 @@
   - Lecture: Word Embeddings (Word2Vec, GloVe), Text Classification
   - Seminar: POS tagging based on bi-LSTM and Text Classification based on CNN+Attention
 
-- [__week05__](./week05) Language Modeling / Dialog
+- [__week05__](./week05) Language Modeling
+  - Lecture: N-gram language models. Neural Language Models
+  - Seminar: Neural LMs for name generation
 
-- [__week06__](./week06) Machine Tranlation / Summarization
+- [__week06__](./week06) Machine Tranlation
+  - Lecture: Encoder-Decoder framework, Attention, Transformer
+  - Seminar: Transformer in PyTorch
 
 - [__week07__](./week07) Facial Recognition
 
@@ -36,7 +40,11 @@
 
 # Homeworks
 - [__ASR__](./week02/homework.ipynb)
-  Implementation of small ASR model
+  Implementation of small ASR model based on QuartzNet
+- [__MT__](./week06/homework.ipynb)
+  Implementation of small MT model based on Transformer
+- [__CV__](./week08/homework.ipynb)
+  Implementation of small Segmentation model of hair
   
 # Contributors & course staff
 Course materials and teaching performed by
