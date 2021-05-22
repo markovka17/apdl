@@ -39,7 +39,7 @@
 
 
 # Homeworks
-- [__ASR__](./week02/homework.ipynb)
+- [__ASR__](./week02/seminar02_2.ipynb)
   Implementation of a small ASR model based on QuartzNet
 - [__MT__](./week06/homework.ipynb)
   Implementation of a small MT model based on Transformer
