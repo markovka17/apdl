@@ -40,11 +40,11 @@
 
 # Homeworks
 - [__ASR__](./week02/homework.ipynb)
-  Implementation of small ASR model based on QuartzNet
+  Implementation of a small ASR model based on QuartzNet
 - [__MT__](./week06/homework.ipynb)
-  Implementation of small MT model based on Transformer
+  Implementation of a small MT model based on Transformer
 - [__CV__](./week08/homework.ipynb)
-  Implementation of small Segmentation model of hair
+  Implementation of a small hair segmentation model
   
 # Contributors & course staff
 Course materials and teaching performed by
