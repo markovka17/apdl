@@ -17,17 +17,15 @@
   - Lecture: Tacotron2, WaveNet, Parallel WaveGAN
   - Seminar: WaveNet based Vocoder
 
-- [__week04__](./week04) Introduction to Text Processing
-  - Lecture: Word Embeddings (Word2Vec, GloVe), Text Classification
-  - Seminar: POS tagging based on bi-LSTM and Text Classification based on CNN+Attention
+- [__week04__](./week04) Language Modeling
+  - Lecture: Word Embeddings,  Language Modeling
+  - Seminar: POS tagging based on bi-LSTM, Text Classification based on CNN+Attention, and Neural LMs
 
-- [__week05__](./week05) Language Modeling
-  - Lecture: N-gram language models. Neural Language Models
-  - Seminar: Neural LMs for name generation
-
-- [__week06__](./week06) Machine Tranlation
+- [__week05__](./week05) Machine Translation
   - Lecture: Encoder-Decoder framework, Attention, Transformer
-  - Seminar: Transformer in PyTorch
+  - Seminar: Transformer
+
+- [__week06__](./week06) TODO
 
 - [__week07__](./week07) Facial Recognition
 
@@ -41,10 +39,10 @@
 # Homeworks
 - [__ASR__](./week02/seminar02_2.ipynb)
   Implementation of a small ASR model based on QuartzNet
-- [__MT__](./week06/homework06.ipynb)
+- [__MT__](./week05/homework05.ipynb)
   Implementation of a small MT model based on Transformer
 - [__CV__](./week08/homework.ipynb)
-  Implementation of a small hair segmentation model
+  Implementation of a small segmentation model
   
 # Contributors & course staff
 Course materials and teaching performed by
