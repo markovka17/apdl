@@ -25,7 +25,9 @@
   - Lecture: Encoder-Decoder framework, Attention, Transformer
   - Seminar: Transformer
 
-- [__week06__](./week06) TODO
+- [__week06__](./week06) Transfer Learning
+  - Lecture: ELMo, BERT
+  - Seminar: Intro to HuggingFace
 
 - [__week07__](./week07) Facial Recognition
 
