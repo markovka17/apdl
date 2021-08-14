@@ -30,13 +30,20 @@
   - Seminar: Intro to HuggingFace
 
 - [__week07__](./week07) Facial Recognition
+  - Lecture: Triplet loss, Angular Softmax, ArcFace
+  - Seminar: Metric Learning with CIFAR100
 
 - [__week08__](./week08) Segmentation
+  - Lecture:
+  - Seminar:
 
 - [__week09__](./week09) Object Detection
+  - Lecture:
+  - Seminar:
 
 - [__week10__](./week10) Surprise :)
-
+  - Lecture:
+  - Seminar:
 
 # Homeworks
 - [__ASR__](./week02/seminar02_2.ipynb)
