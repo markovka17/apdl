@@ -23,7 +23,7 @@
 
 - [__week05__](./week05) Machine Translation
   - Lecture: Encoder-Decoder framework, Attention, Transformer
-  - Seminar: Transformer
+  - Seminar: Transformer in details
 
 - [__week06__](./week06) Transfer Learning
   - Lecture: ELMo, BERT
@@ -41,7 +41,7 @@
   - Lecture:
   - Seminar:
 
-- [__week10__](./week10) Surprise :)
+- [__week10__](./week10) How to deploy your neural network?
   - Lecture:
   - Seminar:
 
