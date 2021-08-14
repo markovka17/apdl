@@ -1,7 +1,7 @@
 # Applied Problems of Deep Learning (APDL)
 - Lecture and seminar materials for each week are in ./week* folders, see README.md for materials and instructions
 - Any technical issues, ideas, bugs in course materials, contribution ideas - add an issue
-- The current version of the course is conducted in **spring 2021** at the [CS Faculty](https://cs.hse.ru/en/) of [HSE](https://www.hse.ru/en/)
+<!-- - The current version of the course is conducted in **spring 2021** at the [CS Faculty](https://cs.hse.ru/en/) of [HSE](https://www.hse.ru/en/) -->
 
 # Syllabus
 
