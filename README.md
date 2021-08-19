@@ -34,25 +34,25 @@
   - Seminar: Metric Learning with CIFAR100
 
 - [__week08__](./week08) Segmentation
-  - Lecture:
-  - Seminar:
+  - Lecture: Upsampling, U-Net, HRNet, Metrics
+  - Seminar: Cell Segmentation
 
 - [__week09__](./week09) Object Detection
-  - Lecture:
-  - Seminar:
+  - Lecture: R-CNN, Fast R-CNN, Faster R-CNN, YOLO
+  - Seminar: People Detection
 
 - [__week10__](./week10) How to deploy your neural network?
-  - Lecture:
-  - Seminar:
+  - Lecture: Quantization, Pruning, Distilation
+  - Seminar: Flask and torchserve for model deployment
 
 # Homeworks
 - [__ASR__](./week02/seminar02_2.ipynb)
   Implementation of a small ASR model based on QuartzNet
 - [__MT__](./week05/homework05.ipynb)
   Implementation of a small MT model based on Transformer
-- [__CV__](./week08/homework.ipynb)
+- [__CV__](./week08/seminar.ipynb)
   Implementation of a small segmentation model
   
 # Contributors & course staff
-Course materials and teaching performed by
+Course materials and teaching (mainly) performed by
 - [Alexander Markovich](https://t.me/markovka17)
